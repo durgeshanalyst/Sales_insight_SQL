@@ -1,5 +1,13 @@
 # Sales_insight_SQL
-From the Datasets You can find any insights if you think relevent and commit in new branch.
+## How to commit Answer?
+It's Very simple Open this 3_year file
+   - Go to YOY_rate.sql
+   - Copy Table and records
+   - Paste into your IDLE, SQL server, MY sql anythwhere
+   - Find insights
+   - Fork to this repositery
+   - Add file and (keep file name as yourname.sql)
+   - VIOLA !! You did it.
 ## Introduction
 This README file serves as a guide for analyzing a dataset containing transaction data. The data is structured with columns for transaction ID, product ID, spending, and transaction date.
 
