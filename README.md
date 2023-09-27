@@ -7,7 +7,7 @@ It's Very simple Open this 3_year file
    - Find insights
    - Fork to this repositery
    - Add file and (keep file name as yourname.sql)
-   - VIOLA !! You did it.
+   - Voila !! You did it.
 ## Introduction
 This README file serves as a guide for analyzing a dataset containing transaction data. The data is structured with columns for transaction ID, product ID, spending, and transaction date.
 
